@@ -6,7 +6,6 @@
 **Overall Framework**
 
 ![PDF Preview](../static/assets/paper_img/AAAI.png)
-
 ---
 
 - Xinpan Yuan, **Shaomin Xie**, Guihu Zhao, Liujie Hua. CLIO: A Unified Framework for Consistency-Aware Learning and Intra-Modal Optimization in Text-Based Person Re-identification. IEEE International Conference on Intelligent Computing 2025. **(CCF-C, Oral, 导师一作, 学生二作)**
