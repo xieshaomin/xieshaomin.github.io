@@ -10,7 +10,7 @@
 
 **Abstract:** Text-based person retrieval (TBPR) aims to retrieve target images from large-scale datasets using textual descriptions. However, the image modality often contains more complex information, such as background redundancy and multi-target interference, leading to \textit{Cross-modal Misalignment Bias (CMB)} during alignment. In addition, most existing methods assume a one-to-one mapping between images and texts, neglecting the common overlap of textual descriptions and causing \textit{Intra-modal Semantic Overlap (ISO)}. To address these issues, we propose a \textbf{CCMA} framework. Specifically, we design a \textbf{Differential Attention} mechanism that explicitly suppresses irrelevant or noisy features and focuses on semantically relevant regions, thereby enhancing local discriminability and cross-modal consistency to alleviate CMB. Moreover, we propose an \textbf{Integrated Modal Alignment Loss (IMAL)}, which regularizes intra-modal neighborhood structures to enhance feature compactness and semantic consistency, thereby alleviating ISO. Extensive experiments on three public datasets validate our method, achieving state-of-the-art results with gains of 0.91\% Rank-1, 0.42\% mAP, and 0.54\% mINP on CUHK-PEDES.
 
-<img src="../static/assets/paper_img/ICASSP.png" alt="PDF Preview" style="width:45%; height:auto;">
+<img src="../static/assets/paper_img/ICASSP.png" alt="PDF Preview" style="width:80%; height:auto;">
 
 - Xinpan Yuan, **Shaomin Xie**, Guihu Zhao*, Liujie Hua*. CLIO: A Unified Framework for Consistency-Aware Learning and Intra-Modal Optimization in Text-Based Person Re-identification. IEEE International Conference on Intelligent Computing 2025. **(CCF-C, Oral, 导师一作, 学生二作)**
 
