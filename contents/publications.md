@@ -6,7 +6,7 @@
 <p align="center"><strong>Overall Framework</strong></p>
 <img src="../static/assets/paper_img/AAAI.png" alt="PDF Preview" style="width:100%; height:auto;">
 
-- Xinpan Yuan, **Shaomin Xie**, Liujie Hua*, Wenguang Gan, Jiawei He. CCMA: Consistency-Aware Cross-Modal Alignment Text-based Person Retrieval. International Conference on Acoustics, Speech, and Signal Processing 2026. **(CCF-B, 导师一作, 学生二作)**
+- Xinpan Yuan, **Shaomin Xie**, Liujie Hua*, Wenguang Gan, Jiawei He. CCMA: Consistency-Aware Cross-Modal Alignment Text-based Person Retrieval. IEEE International Conference on Acoustics, Speech, and Signal Processing 2026. **(CCF-B, Poster, 导师一作, 学生二作)**
 
 **Abstract:** Text-based person retrieval (TBPR) aims to retrieve target images from large-scale datasets using textual descriptions. However, the image modality often contains more complex information, such as background redundancy and multi-target interference, leading to Cross-modal Misalignment Bias (CMB) during alignment. In addition, most existing methods assume a one-to-one mapping between images and texts, neglecting the common overlap of textual descriptions and causing Intra-modal Semantic Overlap (ISO). To address these issues, we propose a CCMA framework. Specifically, we design a Differential Attention mechanism that explicitly suppresses irrelevant or noisy features and focuses on semantically relevant regions, thereby enhancing local discriminability and cross-modal consistency to alleviate CMB. Moreover, we propose an Integrated Modal Alignment Loss (IMAL), which regularizes intra-modal neighborhood structures to enhance feature compactness and semantic consistency, thereby alleviating ISO. Extensive experiments on three public datasets validate our method, achieving state-of-the-art results with gains of 0.91\% Rank-1, 0.42\% mAP, and 0.54\% mINP on CUHK-PEDES.
 
@@ -21,7 +21,7 @@
 #### 📝 在投论文
 - Xinpan Yuan<sup>†</sup>, **Shaomin Xie<sup>†</sup>**,Liujie Hua*, Hongyang Dong*, Xiaowei Zhao*, Lin Yuanbo Wu*. Learning Structure-Consistent Alignment under Fine-Grained Noisy Correspondences for Text-Based Person Retrieval. IEEE Conference on Computer Vision and Pattern Recognition 2026. **(CCF-A，学生导师共一)**
 
-- **Shaomin Xie**, Xinpan Yuan, Liujie Hua*, Wenguang Gan, Jiawei He. HiSA: Hierarchical Semantic Abstraction for Fine-Grained Text-Based Person Re-identification. International Conference on Acoustics, Speech, and Signal Processing 2026. **(CCF-B)**
+- **Shaomin Xie**, Xinpan Yuan, Liujie Hua*, Wenguang Gan, Jiawei He. HiSA: Hierarchical Semantic Abstraction for Fine-Grained Text-Based Person Re-identification. IEEE International Conference on Multimedia and Expo 2026. **(CCF-B)**
 
 #### 🏷 说明 
 - †: 共同一作
