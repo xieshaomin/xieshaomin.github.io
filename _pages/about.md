@@ -128,7 +128,7 @@ We propose CCMA for text-based person retrieval, using Differential Attention to
 
 **R²PL: Robust Relational Prototype Learning for Noisy Correspondence Text-Based Person Retrieval**
 
-Min Ouyang, Jiawei He, Yuying Yang, <strong>Shaomin Xie*</strong>, Xinpan Yuan*
+Min Ouyang, Jiawei He, Yuying Yang, **Shaomin Xie***, Xinpan Yuan
 
 We propose R²PL for text-based person retrieval under noisy correspondence, using CRP to self-correct noisy pairs via sparse relational graphs and VUPL to model class semantics as vMF distributions. It reaches 76.84%, 68.52%, and 65.70% Rank-1 on CUHK-PEDES, ICFG-PEDES, and RSTPReid, and remains robust under 50% noise (CCF-C, Regular).
 
