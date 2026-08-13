@@ -38,39 +38,123 @@ redirect_from:
 
 <div style="max-height: 310px; overflow-y: auto;border-radius: 5px; background-color: #f9f9f9; scrollbar-width: none; -ms-overflow-style: none;">
 <ul>
-<li><em>2026.06</em>，一篇论文 R²PL 被 QRS 2026 接收（第一通讯作者）。🎉</li>
+<li><em>2026.06</em>，一篇论文 R²PL 被 QRS 2026 接收（第一通讯作者）。📄</li>
 <li><em>2026.06</em>，获湖南工业大学亚辉龙奖学金。🎉</li>
-<li><em>2026.03</em>，一篇论文被 ICME 2026 接收（CCF-B）。🎉</li>
-<li><em>2026.01</em>，一篇论文被 ICASSP 2026 接收（CCF-B）。🎉</li>
+<li><em>2026.03</em>，一篇论文被 ICME 2026 接收（CCF-B）。📄</li>
+<li><em>2026.01</em>，一篇论文被 ICASSP 2026 接收（CCF-B）。📄</li>
 <li><em>2025.12</em>，获第四届湖南省研究生创新设计大赛三等奖。🎉</li>
-<li><em>2025.11</em>，一篇论文被 AAAI 2026 接收为 <strong>Oral</strong>（CCF-A，录用率 4.6%）。🎉</li>
+<li><em>2025.11</em>，一篇论文被 AAAI 2026 接收为 <strong>Oral</strong>（CCF-A，录用率 4.6%）。📄</li>
 <li><em>2025.11</em>，获第四届湖南省研究生计算机创新大赛三等奖。🎉</li>
 <li><em>2025.10</em>，获湖南工业大学一等奖学金。🎉</li>
 <li><em>2025.04</em>，获研究生品学兼优二等奖学金。🎉</li>
 <li><em>2024.11</em>，获第五届湖南省研究生人工智能创新大赛三等奖。🎉</li>
-<li><em>2025.04</em>，一篇论文被 ICIC 2025 接收为 <strong>Oral</strong>（CCF-C）。🎉</li>
+<li><em>2025.04</em>，一篇论文被 ICIC 2025 接收为 <strong>Oral</strong>（CCF-C）。📄</li>
 </ul>
 </div>
 
 # 📝 论文发表
 <span class='anchor' id='publications'></span>
 
-完整列表请见 <a href="https://scholar.google.com/citations?user=fIVa9DYAAAAJ&hl=zh-CN">Google Scholar</a>。
+完整列表请见 <a href="https://scholar.google.com/citations?user=fIVa9DYAAAAJ&hl=zh-CN">Google Scholar</a>。说明：† 表示共同一作，* 表示通讯作者。
 
-<div style="max-height: 455px; overflow-y: auto; border-radius: 5px; background-color: #f9f9f9; scrollbar-width: none; -ms-overflow-style: none;">
-<ul>
-<li>说明：† 表示共同一作，* 表示通讯作者。</li>
+<div class='paper-box'>
+<div class='paper-box-image'>
+  <div>
+    <div class="badge">AAAI 2026 Oral</div>
+    <img src='images/paper_img/AAAI.png' alt="AAAI 2026" width="100%">
+  </div>
+</div>
+<div class='paper-box-text' markdown="1">
 
-<li>[<em>AAAI'26</em>] Xinpan Yuan†, <strong>Shaomin Xie†</strong>, Liujie Hua*, Chengyuan Zhang*, Guihu Zhao, Lin Yuanbo Wu*, Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based Person Retrieval, AAAI Conference on Artificial Intelligence (AAAI), 2026, <strong>Oral</strong>（CCF-A，学生导师共一）。</li>
+**Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based Person Retrieval**
 
-<li>[<em>ICME'26</em>] <strong>Shaomin Xie</strong>, Xinpan Yuan, Liujie Hua*, Wenguang Gan, Jiawei He, HiSA: Hierarchical Semantic Abstraction for Fine-Grained Text-Based Person Re-identification, IEEE International Conference on Multimedia and Expo (ICME), 2026（CCF-B）。</li>
+Xinpan Yuan†, **Shaomin Xie†**, Liujie Hua*, Chengyuan Zhang*, Guihu Zhao, Lin Yuanbo Wu*
 
-<li>[<em>ICASSP'26</em>] <strong>Shaomin Xie</strong>, Xinpan Yuan, Liujie Hua*, Wenguang Gan, Jiawei He, CCMA: Consistency-Aware Cross-Modal Alignment for Text-based Person Retrieval, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026（CCF-B）。</li>
+We propose GSCA for text-based person retrieval under noisy correspondence, jointly modeling cross-modal and intra-modal geometric consistency, and use SRAM to mine reliable pairs. It achieves SOTA on three benchmarks, e.g., 74.25% Rank-1 on CUHK-PEDES under 50% noise. (CCF-A, **Oral**).
 
-<li>[<em>QRS'26</em>] Min Ouyang, Jiawei He, Yuying Yang, <strong>Shaomin Xie*</strong>, Xinpan Yuan*, R²PL: Robust Relational Prototype Learning for Noisy Correspondence Text-Based Person Retrieval, The 26th International Conference on Software Quality, Reliability, and Security (QRS), 2026（第一通讯作者）。</li>
+[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/38218) [**Code**]()
 
-<li>[<em>ICIC'25</em>] Xinpan Yuan, <strong>Shaomin Xie</strong>, Guihu Zhao*, Liujie Hua*, CLIO: A Unified Framework for Consistency-Aware Learning and Intra-Modal Optimization in Text-Based Person Re-identification, IEEE International Conference on Intelligent Computing (ICIC), 2025, <strong>Oral</strong>（CCF-C，导师一作、学生二作）。</li>
-</ul>
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+  <div>
+    <div class="badge">ICME 2026</div>
+    <img src='images/paper_img/ICME.png' alt="ICME 2026" width="100%">
+  </div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**HiSA: Hierarchical Semantic Abstraction for Fine-Grained Text-Based Person Re-identification**
+
+**Shaomin Xie**, Xinpan Yuan, Liujie Hua*, Wenguang Gan, Jiawei He
+
+We propose HiSA for fine-grained text-based person Re-ID, using MHAP to build hierarchical attribute semantics and HSCL to align multi-scale attribute–image–text correlations, mitigating semantic drift from coarse or VLM-generated text. It achieves SOTA Rank-1 gains of 1.09%, 1.77%, and 2.07% on CUHK-PEDES, ICFG-PEDES, and RSTPReid (CCF-B, Poster).
+
+[**Paper**]() [**Code**]()
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+  <div>
+    <div class="badge">ICASSP 2026</div>
+    <img src='images/paper_img/ICASSP.png' alt="ICASSP 2026" width="100%">
+  </div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**CCMA: Consistency-Aware Cross-Modal Alignment for Text-based Person Retrieval**
+
+**Shaomin Xie**, Xinpan Yuan, Liujie Hua*, Wenguang Gan, Jiawei He
+
+We propose CCMA for text-based person retrieval, using Differential Attention to reduce Cross-modal Misalignment Bias and IMAL to alleviate Intra-modal Semantic Overlap. It achieves SOTA on three datasets, with +0.91% Rank-1, +0.42% mAP, and +0.54% mINP on CUHK-PEDES (CCF-B, Poster).
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/11464488) [**Code**]()
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+  <div>
+    <div class="badge">QRS 2026</div>
+    <img src='images/paper_img/QRS.png' alt="QRS 2026" width="100%">
+  </div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**R²PL: Robust Relational Prototype Learning for Noisy Correspondence Text-Based Person Retrieval**
+
+Min Ouyang, Jiawei He, Yuying Yang, <strong>Shaomin Xie*</strong>, Xinpan Yuan*
+
+We propose R²PL for text-based person retrieval under noisy correspondence, using CRP to self-correct noisy pairs via sparse relational graphs and VUPL to model class semantics as vMF distributions. It reaches 76.84%, 68.52%, and 65.70% Rank-1 on CUHK-PEDES, ICFG-PEDES, and RSTPReid, and remains robust under 50% noise (CCF-C, Regular).
+
+[**Paper**]() [**Code**]()
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+  <div>
+    <div class="badge">ICIC 2025 Oral</div>
+    <img src='images/paper_img/ICIC.png' alt="ICIC 2025" width="100%">
+  </div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**CLIO: A Unified Framework for Consistency-Aware Learning and Intra-Modal Optimization in Text-Based Person Re-identification**
+
+Xinpan Yuan, **Shaomin Xie**, Guihu Zhao*, Liujie Hua*
+
+We propose CLIO for text-based person Re-ID under noisy correspondence, using CRAM to estimate sample reliability and CUIA to propagate confidence-aware labels across uni- and cross-modal spaces. It reaches 73.85% Rank-1 on CUHK-PEDES, with +1.63% mINP and +0.68% mAP. (CCF-C, **Oral**).
+
+[**Paper**](https://link.springer.com/chapter/10.1007/978-981-96-9794-6_33) [**Code**]()
+
+</div>
 </div>
 
 # 📖 教育经历
