@@ -88,7 +88,7 @@ We propose GSCA for text-based person retrieval under noisy correspondence, join
 
 **HiSA: Hierarchical Semantic Abstraction for Fine-Grained Text-Based Person Re-identification**
 
-**Shaomin Xie**, Liujie Hua∗, Xinpan Yuan, Wenguang Gan, Jiawei He, Changhong Zhang, and Yueyi Luo
+**Shaomin Xie**, Liujie Hua∗, Xinpan Yuan, Wenguang Gan, Jiawei He, Changhong Zhang, Yueyi Luo
 
 We propose HiSA for fine-grained text-based person Re-ID, using MHAP to build hierarchical attribute semantics and HSCL to align multi-scale attribute–image–text correlations, mitigating semantic drift from coarse or VLM-generated text. It achieves SOTA Rank-1 gains of 1.09%, 1.77%, and 2.07% on CUHK-PEDES, ICFG-PEDES, and RSTPReid (CCF-B, Poster).
 
