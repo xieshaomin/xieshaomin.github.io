@@ -37,6 +37,7 @@ redirect_from:
 
 <div style="max-height: 310px; overflow-y: auto;border-radius: 5px; background-color: #f9f9f9; scrollbar-width: none; -ms-overflow-style: none;">
 <ul>
+<li><em>2026.10</em>，获<strong>湖南工业大学一等奖学金</strong>。🎉</li>
 <li><em>2026.10</em>，获<strong>湖南工业大学国家奖学金</strong>。🎉</li>
 <li><em>2026.06</em>，一篇论文 R²PL 被 QRS 2026 接收（第一通讯作者）。📄</li>
 <li><em>2026.06</em>，获湖南工业大学亚辉龙奖学金。🎉</li>
