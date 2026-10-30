@@ -167,6 +167,7 @@ We propose CLIO for text-based person Re-ID under noisy correspondence, using CR
 # 🎖 荣誉奖项
 <span class='anchor' id='awards'></span>
 
+- *2026-10*，湖南工业大学一等奖学金。
 - *2026-10*，湖南工业大学国家奖学金。
 - *2026-04*，湖南工业大学亚辉龙奖学金。
 - *2025.12*，第四届湖南省研究生创新设计大赛三等奖。
